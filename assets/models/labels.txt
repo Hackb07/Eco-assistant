@@ -1,0 +1,7 @@
+plastic
+metal
+organic
+e-waste
+glass
+paper
+debris
